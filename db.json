@@ -17,7 +17,13 @@
     "organizerGuest":"Rahul Kumar",
     "date":"19-08-2024",
     "time":"17:30",
-    "meetingId":"zoom.com",
-    "participantAllow":"50"
+    "meetingId":"zoom.com"
+  },
+    {
+    "name":"Resume builder session",
+    "organizerGuest":"Rahul Kumar",
+    "date":"20-08-2024",
+    "time":"17:30",
+    "meetingId":"zoom.com"
   }
 ]}
