@@ -1,0 +1,15 @@
+{
+  "name": "event-server-app",
+  "version": "1.0.0",
+  "description": "event-managment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Surabhi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
